@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [rafael-martins1](University)
+- 👨‍💻 All of my projects are available [here](rafael-martins1)
 
 - 📫 How to reach me **rafael.martins2002@outlook.pt**
 
